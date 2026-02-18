@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "bash /home/user/TechWiki/.claude/scripts/work-status.sh"
+      }
+    ]
+  }
+}
